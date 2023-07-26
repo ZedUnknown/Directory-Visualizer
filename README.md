@@ -72,6 +72,7 @@ Your feedback and suggestions are valuable to us! If you encounter any problems,
 - Reach out to us through the contact information provided in the repository.
 
 We appreciate your feedback and look forward to hearing from you!
+
 ---
 
 Explore the Directory Visualizer and gain insights into the organization of files and subdirectories across various folders like never before!
