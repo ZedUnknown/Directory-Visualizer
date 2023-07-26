@@ -2,16 +2,19 @@
 
 Directory Visualizer is a user-friendly tool to visualize and explore the structure of directories in a tree-like view. Easily understand and navigate your file system by creating graph using this tool.
 
-<img width="640px" src="https://github.com/ZedUnknown/Directory-Visualizer/blob/main/Images/Graph-bg.png" alt="Image"/>
+&nbsp;
+
+<img width="720px" src="https://github.com/ZedUnknown/Directory-Visualizer/blob/main/Images/Graph-bg.png" alt="Image"/>
 
 ## Prerequisites
 
 - Python 3.x
+- Graphviz
 
 ## Installation
 1. Clone the repository or download the project files.
 ```bash
-git clone https://github.com/ZedUnknown/directory-visualizer.git
+git clone https://github.com/ZedUnknown/Directory-Visualizer.git
 cd directory-visualizer
 ```
 2. Install the required Python module (graphviz)
