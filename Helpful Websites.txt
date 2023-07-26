@@ -1,0 +1,6 @@
+Graphviz          -: https://graphviz.org/documentation/
+
+sys.argv          -: https://linuxhint.com/python-sys-argv/
+os.path.isabs()   -: https://www.geeksforgeeks.org/python-os-path-isabs-method/
+os.getcwd()       -: https://www.geeksforgeeks.org/find-path-to-the-given-file-using-python/
+os.walk ()        -: https://www.geeksforgeeks.org/os-walk-python/
